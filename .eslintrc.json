@@ -1,0 +1,13 @@
+{
+  "extends": "airbnb",
+  "env": {
+    "mocha": true
+  },
+  "rules": {
+    "max-len": [1, 100, 2, {
+      "ignoreComments": true
+    }],
+    "camelcase": 0,
+    "semi": [2, "never"]
+  }
+}
