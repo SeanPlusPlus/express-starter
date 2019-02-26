@@ -1,0 +1,13 @@
+{
+  "name": "SlackEspn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sean Stephenson <Sean.M.Stephenson@espn.com> (http://espn.com/)",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "serverless-http": "^1.9.1"
+  }
+}
